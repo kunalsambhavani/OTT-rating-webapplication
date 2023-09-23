@@ -1,0 +1,2 @@
+
+Basically it's a rating web application that is been useful for watching or give review of the particular movie,series and animes. Nowadays people's schedule is very hactic they have so much less time left to entertain their selves. so they can come to this website and surf their liking genre it'll suggest them movies as well as give them the viewers review. So they won't get disappoint after watching worthless movies. It's based on html,css,js and backend has been done in php. Hope you like it.
